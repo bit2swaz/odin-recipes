@@ -1,18 +1,19 @@
-# odin-recipes
+## odin-recipes
 The Odin Project: Foundations Course - HTML Foundations Recipes Project
 
-This project is a part of the HTML Foundations section of The Odin Project. The goal is to create a basic website consisting of a main index page which will have links to a few recipes using only HTML. No CSS is used in this stage — the focus is purely on understanding and applying semantic HTML to structure content effectively.
+This is a simple multi-page website built using HTML as part of The Odin Project’s Foundations curriculum.
 
-By the end of this project, I will have demonstrated:
+It includes:
+- Internal page linking using relative paths
+- Semantic HTML basics (headings, lists, images, etc.)
+- Organized folder and file structure
+- Daily commits for version tracking
 
-- Proper use of semantic HTML elements (html, head, body, img, etc.)
+What I’ll improve in the future:
+- Add internal CSS once I learn it
+- Improve layout and readability using semantic containers like `<section>` and `<main>`
+- Improve mobile responsiveness later in the curriculum
 
-- Logical content hierarchy using headings and paragraphs
-
-- Embedding images and links into a structured layout
-
-- Writing clean, readable, and maintainable HTML code
-
-This project lays the groundwork for learning how to pair structure with style as we move forward into CSS.
+Built with pure HTML. No frameworks. No templates. Just raw code and discipline.
 
 This is Day 3 of 1461. Another brick laid in the foundation. Another day, another W.
