@@ -32,7 +32,7 @@ h2 {
     padding: 5px;
 }
 
-a {
+li a {
     display: block;
     text-align: center;
     text-decoration: none;
@@ -58,12 +58,6 @@ a:hover {
     color: #e6d2d2;
     background-color: #e6d2d2;
     border-radius: 5px;
-}
-
-.recipe-links li a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 img {
